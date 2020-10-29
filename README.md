@@ -3,6 +3,8 @@
 
 ***
 
+Неre is some cool images from Safebooru!
+
 You can contact me in Discord: DisNin#6969
 
 ***
