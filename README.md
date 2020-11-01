@@ -5,6 +5,8 @@
 
 Неre is some cool images from Safebooru!
 
+Safebooru - [Click me!](https://safebooru.org)
+
 You can contact me in Discord: DisNin#6969
 
 ***
