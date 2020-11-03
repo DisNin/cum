@@ -1,0 +1,19 @@
+{
+  "name": "cum",
+  "version": "1.0.0",
+  "description": "Just a some cool content from Safebooru!",
+  "main": "cum.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DisNin/cum.git"
+  },
+  "author": "DisNin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DisNin/cum/issues"
+  },
+  "homepage": "https://github.com/DisNin/cum#readme"
+}
