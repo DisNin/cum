@@ -3,8 +3,8 @@
 
 ***
 
-> Неre is some cool images from Safebooru and all network!
-> You can use it anywhere for your projects, these is just a my fun project!
+### Неre is some cool images from Safebooru and all network!
+### You can use it anywhere for your projects, these is just a my fun project!
 
 ## To Install:
 
@@ -19,7 +19,7 @@ const cum = require ('./ path / to / cum / cum.js')
 Now you can use the cum() function
 ```
 
-Safebooru - [Click me!](https://safebooru.org)
+### Safebooru - [Click me!](https://safebooru.org)
 
 ***
 
