@@ -13,7 +13,7 @@
 `Then you need to specify the path to the cum folder with`
 
 ```javascript
-const cum = require ('./ path / to / cum / cum.js')
+const cum = require('./path/to/cum/cum.js')
 ```
 ```
 Now you can use the cum() function
