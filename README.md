@@ -23,4 +23,4 @@ Now you can use the cum() function
 
 ***
 
-![alt text](https://media.discordapp.net/attachments/704333999966912624/776074271864127488/image0.jpg)
+![alt text](https://github.com/DisNin/CumValley/blob/main/random/UV9Ld.png?raw=true)
