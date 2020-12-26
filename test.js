@@ -1,5 +1,5 @@
-let cum = require('./')
+let lib = require('./lib.js')
 
-console.log(cum.cum); // all array
+console.log(lib.lib); // all array
 
-console.log(cum()); // random picture
+console.log(lib()); // random picture
