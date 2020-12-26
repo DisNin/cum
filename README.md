@@ -8,7 +8,7 @@
 
 ## To Install:
 
-`git clone https://github.com/DisNin/CumValley.git`
+`git clone https://github.com/DisNin/AnimeLibrary.git`
 
 `Then you need to specify the path to the cum folder with`
 
@@ -23,4 +23,4 @@ Now you can use the cum() function
 
 ***
 
-![alt text](https://github.com/DisNin/CumValley/blob/main/random/UV9Ld.png?raw=true)
+![alt text](https://github.com/DisNin/AnimeLibrary/blob/main/random/UV9Ld.png?raw=true)
